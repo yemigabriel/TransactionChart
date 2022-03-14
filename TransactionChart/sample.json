@@ -1,0 +1,114 @@
+[
+    {
+        "id": "6B1B5D3A-D884-4A56-9DC9-A584E439E0E5",
+        "title": "Random Alert",
+        "amount": 2000.00,
+        "currentBalance": 2300.00,
+        "type": "credit",
+        "date": "2022-03-01 1:00:00"
+    },
+    {
+        "id": "989C3884-4335-4D98-9D21-AEC8A0AADD3F",
+        "title": "Random Expense",
+        "amount": 200.00,
+        "currentBalance": 2100.00,
+        "type": "debit",
+        "date": "2022-03-01 1:00:00"
+    },
+    {
+        "id": "6943DBCE-9EBC-4192-B09B-7121AFDF7F4E",
+        "title": "Random Expense",
+        "amount": 50.00,
+        "currentBalance": 2050.00,
+        "type": "debit",
+        "date": "2022-03-01 1:00:00"
+    },
+    {
+        "id": "18532A8F-1887-43B3-8A4F-294FD4007017",
+        "title": "Random Alert",
+        "amount": 200.00,
+        "currentBalance": 2250.00,
+        "type": "credit",
+        "date": "2022-03-01 1:00:00"
+    },
+    {
+        "id": "2DDAFDA8-89DA-4C24-9374-97E0D11657D7",
+        "title": "Random Alert",
+        "amount": 300.00,
+        "currentBalance": 2550.00,
+        "type": "credit",
+        "date": "2022-03-01 1:00:00"
+    },
+    {
+        "id": "BCE34B2C-4ABC-443F-ADE0-40F0DE366CB6",
+        "title": "Random Expense",
+        "amount": 100.00,
+        "currentBalance": 2450.00,
+        "type": "debit",
+        "date": "2022-03-01 1:00:00"
+    },
+    {
+        "id": "9DABB201-94F9-4897-9878-B0E3C41242A5",
+        "title": "Random Expense",
+        "amount": 100.00,
+        "currentBalance": 2350.00,
+        "type": "debit",
+        "date": "2022-03-01 1:00:00"
+    },
+    {
+        "id": "E90EDB88-3E97-4592-8E0F-E58D22A5B0E8",
+        "title": "Random Expense",
+        "amount": 150.00,
+        "currentBalance": 2200.00,
+        "type": "debit",
+        "date": "2022-03-01 1:00:00"
+    },
+    {
+        "id": "7E005400-A968-4199-BF00-760707BC673B",
+        "title": "Random Expense",
+        "amount": 300.00,
+        "currentBalance": 1900.00,
+        "type": "debit",
+        "date": "2022-03-01 1:00:00"
+    },
+    {
+        "id": "D3102D74-E95B-43F2-9732-6FC62668FE53",
+        "title": "Random Expense",
+        "amount": 50.00,
+        "currentBalance": 1850.00,
+        "type": "debit",
+        "date": "2022-03-01 1:00:00"
+    },
+    {
+        "id": "DA3421BA-7258-479E-975F-C5E2AB939B58",
+        "title": "Random Alert",
+        "amount": 20.00,
+        "currentBalance": 1870.00,
+        "type": "credit",
+        "date": "2022-03-01 1:00:00"
+    },
+    {
+        "id": "7E025400-A968-4199-BF00-760707BC673B",
+        "title": "Random Expense",
+        "amount": 300.00,
+        "currentBalance": 1570.00,
+        "type": "debit",
+        "date": "2022-03-01 1:00:00"
+    },
+    {
+        "id": "D3102D74-E95B-43F2-9732-6FC62668FE53",
+        "title": "Random Alert",
+        "amount": 500.00,
+        "currentBalance": 2070,
+        "type": "credit",
+        "date": "2022-03-01 1:00:00"
+    },
+    {
+        "id": "DA3421BA-7258-479E-975F-C5E2AB939B58",
+        "title": "Random Alert",
+        "amount": 200.00,
+        "currentBalance": 2270.00,
+        "type": "credit",
+        "date": "2022-03-01 1:00:00"
+    }
+]
